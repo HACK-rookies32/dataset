@@ -1,0 +1,3 @@
+98_precheck.sql
+99_verify.sql
+chat_seed.mongo.js
